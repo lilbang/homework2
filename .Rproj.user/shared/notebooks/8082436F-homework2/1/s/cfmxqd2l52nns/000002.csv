@@ -1,0 +1,4 @@
+"0","library(jsonlite)"
+"2","package ¡¥jsonlite¡¦ was built under R version 3.5.3"
+"0","commitCheck <- content(GET(""https://raw.githubusercontent.com/tpemartin/github-data/master/rstudioCommits.json""))"
+"0","commitCheck <- fromJSON(commitCheck, simplifyVector = F)"
